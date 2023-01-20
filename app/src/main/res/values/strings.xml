@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DiningHallMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="tab_names">
+        <item>Breakfast fragment</item>
+        <item>Lunch fragment</item>
+        <item>Dinner fragment</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scrambled_egg">Scrambled Egg</string>
+    <string name="quot_dana_quot">\"@Dana\"</string>
+    <string name="write_your_message">Write your message...</string>
+    <string name="attach">Attach</string>
+    <string name="send">Send</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="delete">Delete</string>
+    <string name="enter_menu_item_here">Enter menu item here</string>
+    <string name="rate">Rate</string>
+    <string name="details">Details</string>
+</resources>

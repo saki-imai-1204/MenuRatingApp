@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726632917815",
+    "project_id": "dining-hall-menu-cc155",
+    "storage_bucket": "dining-hall-menu-cc155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726632917815:android:ef6eff8e32af9446a988b2",
+        "android_client_info": {
+          "package_name": "hu.ait.dininghallmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726632917815-8sv2cr2aiei9dpn5ir9bm0odquc3c7mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvDOXcMlIiS4xPAs6Tm8dc0I4qKG3JYLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726632917815-8sv2cr2aiei9dpn5ir9bm0odquc3c7mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

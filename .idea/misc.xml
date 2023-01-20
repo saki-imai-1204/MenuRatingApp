@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/add.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/downvotenotactive.xml" value="0.147" />
+        <entry key="app/src/main/res/drawable/upvotenotactive.xml" value="0.147" />
+        <entry key="app/src/main/res/layout/activity_breakfast_detail.xml" value="0.23647715250651044" />
+        <entry key="app/src/main/res/layout/activity_create_post.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.10364583333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27598724365234373" />
+        <entry key="app/src/main/res/layout/chat_row.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/dialog_rating.xml" value="0.11822916666666666" />
+        <entry key="app/src/main/res/layout/dining_hall_row.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_breakfast.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.1105072463768116" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_dinner.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_lunch.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/item_row.xml" value="0.41199747721354174" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.24270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
